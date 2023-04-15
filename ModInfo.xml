@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<xml>
+		<ModInfo>
+			<Name value="Combine Window"/>
+			<Description value="Re-adds the Combine Window to Workbench and adds it to Vehicle Storage"/>
+			<Author value="Hype365"/>
+			<Version value="1.0"/>
+			<Website value=""/>
+		</ModInfo>
+	</xml>
