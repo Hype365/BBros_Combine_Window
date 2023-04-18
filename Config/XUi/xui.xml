@@ -1,4 +1,4 @@
-<bbros>
+<configs>
 	<!-- Add the combiner window to the Workbench and the Vehicle Storage windows. -->
 	<append xpath="/xui/ruleset/window_group[@name='workstation_workbench']" >
 		<window name="windowCombine" />
@@ -7,4 +7,4 @@
 		<window name="windowCombine" />
 	</append>
 
-</bbros>
+</configs>
